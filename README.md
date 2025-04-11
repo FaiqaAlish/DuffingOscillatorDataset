@@ -23,6 +23,10 @@ This repository provides research data associated with the **Duffing Oscillator*
 - `duffing_animation.gif`  
   A visual animation showing the phase plane and Poincaré map for randomly selected parameter combinations, demonstrating chaotic and periodic behavior.
 
+- Numerical simlation csv files:
+  Due to size limitations on GitHub, the full simulation dataset can be made available upon request.
+
+
 ## Usage & Licensing
 
 > **Important**: This dataset is currently provided for **informational and academic preview purposes only**.  
