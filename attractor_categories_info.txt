@@ -1,0 +1,55 @@
+Authors: 
+Faiqa Ali, Adil Jhangeer, Muhammad Mudassar
+
+Total entries: 179685
+
+Divergence behavior (overall):
+Div: 114880
+NonDiv: 60812
+Point: 3993
+
+Eigenvalue categories (overall):
+R3: 86625
+RC1: 36225
+RC2: 36225
+C: 7875
+R1: 3150
+R2: 3150
+R4: 2925
+R5: 2925
+Z: 585
+
+Eigenvalue categories within each divergence group:
+
+Div (114880 entries):
+  R3: 73645
+  RC1: 28865
+  RC2: 3823
+  R1: 3009
+  R4: 2394
+  C: 1081
+  R5: 1034
+  R2: 819
+  Z: 210
+
+NonDiv (60812 entries):
+  RC2: 31709
+  R3: 11165
+  RC1: 6667
+  C: 6629
+  R2: 2199
+  R5: 1726
+  R4: 366
+  Z: 342
+  R1: 9
+
+Point (3993 entries):
+  R3: 1815
+  RC1: 693
+  RC2: 693
+  R4: 165
+  C: 165
+  R5: 165
+  R1: 132
+  R2: 132
+  Z: 33

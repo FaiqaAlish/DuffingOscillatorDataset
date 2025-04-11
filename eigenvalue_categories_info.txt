@@ -1,0 +1,15 @@
+Authors: 
+Faiqa Ali, Adil Jhangeer, Muhammad Mudassar
+
+Total entries: 179685
+
+Category counts:
+R3: 86625
+RC1: 36225
+RC2: 36225
+C: 7875
+R1: 3150
+R2: 3150
+R4: 2925
+R5: 2925
+Z: 585
